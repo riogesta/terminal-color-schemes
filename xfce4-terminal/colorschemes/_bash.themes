@@ -1,0 +1,5 @@
+[Scheme]
+Name=_bash
+ColorPalette=rgb(41,45,62);rgb(240,113,120);rgb(195,232,141);rgb(255,203,107);rgb(130,170,255);rgb(199,146,234);rgb(96,173,236);rgb(171,178,191);rgb(149,157,203);rgb(240,113,120);rgb(195,232,141);rgb(255,85,114);rgb(130,170,255);rgb(255,203,107);rgb(103,110,149);rgb(255,254,254)
+ColorBackground=#29292d2d3e3e
+TabActivityColor=#c3c3e8e88d8d
