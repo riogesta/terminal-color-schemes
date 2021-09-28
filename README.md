@@ -7,6 +7,7 @@ color schemes from [Gogh](https://mayccoll.github.io/Gogh/)
 ## available to
 
 - xfce4-terminal
+- Konsole (KDE Plasma terminal)
 - ...
 - ...
 - coming soon
@@ -18,3 +19,7 @@ color schemes from [Gogh](https://mayccoll.github.io/Gogh/)
 ![AyuMirage](./images/AyuMirage.png)
 
 ![_bash](./images/_bash.png)
+
+- Konsole (KDE Plasma terminal)
+
+![_bash](./images/kde_GoogleDark.png)
