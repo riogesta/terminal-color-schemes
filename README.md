@@ -23,3 +23,4 @@ color schemes from [Gogh](https://mayccoll.github.io/Gogh/)
 - Konsole (KDE Plasma terminal)
 
 ![_bash](./images/kde_GoogleDark.png)
+![_bash](./images/kde_argonaut.png)
